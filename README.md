@@ -1,4 +1,8 @@
-### Hi there 👋
+# ✨ Hello ✨
+
+I'm a frontend engineer with a ton of agency experience and a passion for the front-of-the-front-end. I've built websites for big brand names like Under Armour, Anheusuer Busch, and Yale. Savvy in the ways of web accessibility, front end testing, and anything Jamstack.
+
+👽 [darzouras.com](https://darzouras.com)
 
 <!--
 **darzouras/darzouras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
